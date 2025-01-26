@@ -1,7 +1,15 @@
 class Solution:
-    def mySqrt(self, x: int) -> int:  # Added "self" as the first parameter
-        if x < 2:
+    def mySqrt(self, x: int) -> int:
+        if (x < 2) :
             return x
-        for i in range(0, x//2+1):
-            if i*i <= x and (i+1)**2 > x:
-                return i
+        l, r = 0, x // 2
+        while l <= r:
+            m = (l + r) // 2
+            square = m * m
+            if square == x:
+                return m
+            elif square < x:
+                l = m + 1
+            else:
+                r = m - 1
+        return r
