@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jhaveripriyank/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/jhaveripriyank/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/jhaveripriyank/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/jhaveripriyank/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jhaveripriyank/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jhaveripriyank/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jhaveripriyank/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jhaveripriyank/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/jhaveripriyank/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/jhaveripriyank/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0268-missing-number) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jhaveripriyank/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jhaveripriyank/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
