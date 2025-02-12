@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jhaveripriyank/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jhaveripriyank/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jhaveripriyank/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jhaveripriyank/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/jhaveripriyank/Leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jhaveripriyank/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jhaveripriyank/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jhaveripriyank/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaveripriyank/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
