@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jhaveripriyank/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jhaveripriyank/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/jhaveripriyank/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jhaveripriyank/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jhaveripriyank/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/jhaveripriyank/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/jhaveripriyank/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaveripriyank/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jhaveripriyank/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
