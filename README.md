@@ -167,14 +167,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jhaveripriyank/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jhaveripriyank/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jhaveripriyank/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0100-same-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhaveripriyank/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jhaveripriyank/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
