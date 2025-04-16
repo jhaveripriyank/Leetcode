@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jhaveripriyank/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/jhaveripriyank/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
+| [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jhaveripriyank/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/jhaveripriyank/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jhaveripriyank/Leetcode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
 | [0883-car-fleet](https://github.com/jhaveripriyank/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/jhaveripriyank/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/jhaveripriyank/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jhaveripriyank/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jhaveripriyank/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jhaveripriyank/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jhaveripriyank/Leetcode/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
 ## Backtracking
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jhaveripriyank/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
