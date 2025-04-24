@@ -1,4 +1,13 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        return[sorted(nums).index(i) for i in nums]
-        
+        temp = sorted(nums)
+        d = {}
+
+        for i,num in enumerate(temp):
+            if num not in d:
+                d[num] = i
+            
+        ret = []
+        for i in nums:
+            ret.append(d[i])
+        return ret
