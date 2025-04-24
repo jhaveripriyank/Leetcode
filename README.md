@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jhaveripriyank/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/jhaveripriyank/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jhaveripriyank/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/jhaveripriyank/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/jhaveripriyank/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/jhaveripriyank/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jhaveripriyank/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jhaveripriyank/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jhaveripriyank/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/jhaveripriyank/Leetcode/tree/master/0883-car-fleet) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jhaveripriyank/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/jhaveripriyank/Leetcode/tree/master/0817-design-hashmap) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jhaveripriyank/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
